@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryback32
-- 👀 I’m interested in VB and SQL
-- 🌱 I’m currently learning VB
+- 👀 I’m interested in Excel,VBA and SQL
+- 🌱 I’m currently learning VBA
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
